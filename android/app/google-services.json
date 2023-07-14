@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34197927260",
+    "project_id": "trail-857d0",
+    "storage_bucket": "trail-857d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34197927260:android:503e4e461ead27365a3d99",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34197927260-do31hok9imu8j88318mr8ql6k1qvm04b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseLSufmpQJHABsWG992W_sPvvDa4-n20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34197927260-do31hok9imu8j88318mr8ql6k1qvm04b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
